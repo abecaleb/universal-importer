@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-westpac/:/",
-    "/content/aem-westpac/configuration:/.helix/config.json",
-    "/content/aem-westpac/metadata:/metadata.json"
+    "/content/westpac/test/:/",
+    "/content/westpac/test/configuration:/.helix/config.json",
+    "/content/westpac/test/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-westpac/"
+    "/content/westpac/test/"
   ]
 }
